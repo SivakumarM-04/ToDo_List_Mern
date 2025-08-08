@@ -22,6 +22,6 @@ npm start
 ```
 ### Author  
 Sivakumar M    
-GitHub   :https://github.com/SivakumarM-04  
-LinkedIn :https://www.linkedin.com/in/Sivakumarm04
+GitHub  : https://github.com/SivakumarM-04  
+LinkedIn: https://www.linkedin.com/in/sivakumarm04/
    
